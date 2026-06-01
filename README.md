@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Ljubica 🌱
 
-<!--
-**theKindCoder/theKindCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software and I think deeply about how we build it — together.
 
-Here are some ideas to get you started:
+My work lives at the intersection of engineering craft and the people doing it: 
+cleaner systems, healthier teams, and the intentional habits that make both 
+possible. I believe every line of code eventually meets a real person. That 
+shapes how I write it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I run [The Kind Coder](https://thekindcoder.com) — a blog and community 
+exploring what it looks like to build technology with dignity, clarity, and care.
+
+---
+
+## What I work on
+
+- 🌿 **Holistic engineering leadership** — reducing complexity so teams can 
+  move with clarity, not just speed
+- 🤝 **Bridging technical and non-technical people** — translating scope, risk, 
+  and trade-offs so everyone in the room understands what we're building and why
+- 🛠️ **Systems that support people** — mentorship programs, onboarding 
+  processes, QA procedures, and documentation that actually gets used
+- 🔍 **Legacy code investigation** — digging into the hard, tangled parts of a 
+  codebase and making them viable, testable, and understood
+- ✍️ **Writing & workshops** — practical guides on kind, intentional software 
+  development at [thekindcoder.com](https://thekindcoder.com)
+
+---
+
+## About Me
+
+- 💻 **Staff Software Engineer** across **Creative Market** and **Dribbble**— I reduce complexity, 
+  lead long-term initiatives, and help engineers build better technical and 
+  holistic solutions
+
+- 🌐 Founder of **[The Kind Coder](https://thekindcoder.com)** — because 
+  kindness isn't soft; it's a practice, and it belongs at the center of how we 
+  build technology
+
+- 🏆 Hermes Creative Awards (2× Platinum) · dotCOMM Award (Gold)
+
+- 📚 Certified in Inclusive Leadership, Digital Leadership, Corporate 
+  Innovation, and Cybersecurity
+
+- 📬 I write about belonging, craft, and the human side of engineering — 
+  [come find the community](https://thekindcoder.com)
+
+---
+
+> *"This is a practice, not a destination. Let's make space for dignity, 
+> intentionality, and belonging in tech — together."*
