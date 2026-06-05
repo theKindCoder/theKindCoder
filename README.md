@@ -4,8 +4,8 @@ I build software and I think deeply about how we build it — together.
 
 My work lives at the intersection of engineering craft and the people doing it: 
 cleaner systems, healthier teams, and the intentional habits that make both 
-possible. I believe every line of code eventually meets a real person. That 
-shapes how I write it.
+possible. Every line of code eventually meets a real person, so I write code 
+like it matters.
 
 I run [The Kind Coder](https://thekindcoder.com) — a blog and community 
 exploring what it looks like to build technology with dignity, clarity, and care.
@@ -19,7 +19,7 @@ exploring what it looks like to build technology with dignity, clarity, and care
 - 🤝 **Bridging technical and non-technical people** — translating scope, risk, 
   and trade-offs so everyone in the room understands what we're building and why
 - 🛠️ **Systems that support people** — mentorship programs, onboarding 
-  processes, QA procedures, and documentation that actually gets used
+  processes, technical QA procedures, and documentation that actually gets used
 - 🔍 **Legacy code investigation** — digging into the hard, tangled parts of a 
   codebase and making them viable, testable, and understood
 - ✍️ **Writing & workshops** — practical guides on kind, intentional software 
@@ -33,7 +33,7 @@ exploring what it looks like to build technology with dignity, clarity, and care
   lead long-term initiatives, and help engineers build better technical and 
   holistic solutions
 
-- 🌐 Founder of **[The Kind Coder](https://thekindcoder.com)** — because 
+- 🌐 Founder of **[The Kind Coder](https://thekindcoder.com)** — because I believe that
   kindness isn't soft; it's a practice, and it belongs at the center of how we 
   build technology
 
