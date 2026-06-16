@@ -47,5 +47,7 @@ exploring what it looks like to build technology with dignity, clarity, and care
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theKindCoder&card_width=1000&card_height=201&hide_current_streak=true)](https://git.io/streak-stats)
+
 > *"This is a practice, not a destination. Let's make space for dignity, 
 > intentionality, and belonging in tech — together."*
